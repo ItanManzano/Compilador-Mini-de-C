@@ -1,4 +1,4 @@
- 🚀 Compilador de Pseudo-C a RISC-V
+** 🚀 Compilador de Pseudo-C a RISC-V
 
 **Un compilador educativo** que traduce un subconjunto de C a código ensamblador RISC-V (RV32I), diseñado para la materia de Compiladores. Optimiza el uso de registros y genera código compatible con RARS.
 
