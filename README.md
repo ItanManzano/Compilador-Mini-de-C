@@ -86,7 +86,7 @@ _start:
  🎯 Objetivos del Proyecto
 - Demostrar los principios de compilación (análisis → síntesis).
 - Generar código RISC-V eficiente.
-- Servir como herramienta educativa para cursos de compiladores.
+- Servir como herramienta educativa para la materia de compiladores.
 
  📌 Notas Adicionales
 - **Limitaciones**: No maneja funciones definidas por el usuario ni arreglos.
